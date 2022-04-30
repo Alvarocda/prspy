@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "f0d4958524995d297f5045bb0723611c",
-"/": "f0d4958524995d297f5045bb0723611c",
+  "index.html": "436d780c50c1508ed3bc7e632488c79d",
+"/": "436d780c50c1508ed3bc7e632488c79d",
 "manifest.json": "2e925e865739731f01a47033695daf6d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "e5f5e01e6d226239eb2e10a7ac90904e",
@@ -547,15 +547,40 @@ const RESOURCES = {
 "assets/packages/flag/res/4x3/io.svg": "d0fbb65407c65ddc786e1b68f4d93da2",
 "assets/packages/flag/res/4x3/ml.svg": "1dd7a9ccbcd179a5a3fba550970ad75c",
 "assets/assets/images/linux-64.png": "bbfafc4887733d3f8eb6fcd5cc5411ed",
+"assets/assets/images/faction_flags/fsa.png": "d754dad459b3d0823c3ad1f0cd7f80e6",
+"assets/assets/images/faction_flags/gb82.png": "b48d70e3482c9a09267976aabf95b00b",
+"assets/assets/images/faction_flags/nl.png": "d66f97232b45e4afeb33742ad43dc1ab",
+"assets/assets/images/faction_flags/vnnva.png": "6978b9c4d13bfb6fcf25594599046fd6",
+"assets/assets/images/faction_flags/ww2ger.png": "76c0658fcd28e781d5ddd3d8055853d1",
+"assets/assets/images/faction_flags/pl.png": "e12b7baa1d547223bef9b9866ee18b8c",
+"assets/assets/images/faction_flags/ru.png": "71e4450fd12aabda9db50516c0b632d0",
+"assets/assets/images/faction_flags/idf.png": "112a7ec62d095664523b0bfc2f43a595",
+"assets/assets/images/faction_flags/ch.png": "ed19d51345d68aa2fdcbecfbe5abae38",
+"assets/assets/images/faction_flags/mec.png": "828cbe596666b013443a0aad47c1d737",
+"assets/assets/images/faction_flags/taliban.png": "e25dcbdcdfb343d26201e4646bdad331",
+"assets/assets/images/faction_flags/arf.png": "53f6c65c1b3fe7ad882b5db8c4c19b47",
+"assets/assets/images/faction_flags/ger.png": "ed0ac00a9db4006223c9b4bbce167ff7",
+"assets/assets/images/faction_flags/fr.png": "e8cbcf1648c71b814eb3e066ed20909e",
+"assets/assets/images/faction_flags/vnusa.png": "35a7308cab701c2b4a71ce6d303cce11",
+"assets/assets/images/faction_flags/arg82.png": "2297ced8869515d46939e17b7f614f46",
+"assets/assets/images/faction_flags/meinsurgent.png": "ddd6c8e853e6411d8e0966dc6dab1a54",
+"assets/assets/images/faction_flags/chinsurgent.png": "6dbedcc13c4e4b0d3d20cff8b6975f79",
+"assets/assets/images/faction_flags/gb.png": "58c2c07d1c75d251a8b7df711e4c754b",
+"assets/assets/images/faction_flags/us.png": "538625556a45f67f8501b6014373b717",
+"assets/assets/images/faction_flags/vnusmc.png": "be842b8290c3f53eabb959e06492e541",
+"assets/assets/images/faction_flags/usa.png": "be842b8290c3f53eabb959e06492e541",
+"assets/assets/images/faction_flags/ww2usa.png": "e4160da133c5569f1582a86ceee3b805",
+"assets/assets/images/faction_flags/hamas.png": "745d7f94c0a4674aaf8ef2b0e3a12123",
+"assets/assets/images/faction_flags/cf.png": "368141b924b18d848349f80bd8258549",
 "assets/assets/images/win32.png": "3505aa96ecf115f9c949fb601f635dbb",
 "assets/assets/images/pr_logo.png": "39edd8991ce0c3c96444b57a0ef25f05",
 "assets/assets/ca/certificate.pem": "be77e5992c00fcd753d1b9c11d3768f2",
-"assets/AssetManifest.json": "b5030c984dccad934881f8c31ba5f05a",
+"assets/AssetManifest.json": "e25ea6062d2afc74e28eafbc7a034b6f",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"main.dart.js": "75fe80c00710d9fc1c65804e8fabb013"
+"main.dart.js": "16437773c9288660102641c05072a29c"
 };
 
 // The application shell files that are downloaded before a service worker can
